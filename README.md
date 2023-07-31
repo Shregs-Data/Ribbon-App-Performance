@@ -19,4 +19,6 @@ Fortunately, this app has minimal bounce rate and even falls within the range of
 
 ![download](https://github.com/Shregs-Data/Ribbon-App-Performance/assets/119749875/5e62e687-fffa-4c32-b0eb-ea1dde123b4e)
 
+![download](https://github.com/Shregs-Data/Ribbon-App-Performance/assets/119749875/c6be08fe-1c1d-4aba-8005-b84e7c129101)
+
 Since the bounce rate of the app is good enough, the next question to ask is, do these users stay back on this app for more? Answering this is gives birth to the Retention Rate
