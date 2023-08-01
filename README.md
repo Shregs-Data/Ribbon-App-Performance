@@ -39,17 +39,12 @@ A 75% retention rate for ribbon indicates that 74.4% of users continue using the
 
 
 ### Answering the CEO's Question?
-``` (If the app is a success) How can we leverage the success of the app launch to further enhance our products and services?
-```
-
-
-
-
-
-
-
-
-
-
-
+(If the app is a success) How can we leverage the success of the app launch to further enhance our products and services?
+---
++ With the Bounce Rate and RR at accepting levels in the industry, we can leverage the success of this app by
+	- User feedback and analysis: Analyzing user feedback and reviews in the app helps to identify what areas to improve on and what features would be valued by the users
+	- User Behavior Analysis: Make use of analytics and user data to gain insights into user behavior and usage patterns within the app
+	- Continuous Improvement: Keep the momentum going by maintaining a constant innovation within the organization
+	- Market Expansion: In the first 30 days of the launch, a massive amount of users waas recorded. Expanding the app's reach to new market would give rise to more users
+ - Customer Support : Ensure your customer are attended to in a professional manner and all queries are addressed
 
