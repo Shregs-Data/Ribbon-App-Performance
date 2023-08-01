@@ -40,6 +40,7 @@ A 75% retention rate for ribbon indicates that 74.4% of users continue using the
 
 ### Answering the CEO's Question?
 ``` (If the app is a success) How can we leverage the success of the app launch to further enhance our products and services?
+```
 
 
 
