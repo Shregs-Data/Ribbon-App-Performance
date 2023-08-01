@@ -10,8 +10,16 @@ Questions from the CEO:
 - (If the app is a success) How can we leverage the success of the app launch to further enhance our products and services?
 - Are there any opportunities for expansion or improvements in user acquisition and engagement?						
 
---
-We'll Start with the Metrics Bounce Rate And Retention Rate
+-- We'll start with totals
+With over 3 billion new user signups in its first 30 days of operation, the new app has achieved an unprecedented level of rapid and widespread adoption, demonstrating its strong appeal and potential for massive success in the market.
+
+![download](https://github.com/Shregs-Data/Ribbon-App-Performance/assets/119749875/509d287c-1e43-41b6-847e-946810f2e520)
+
+Experiencing over 3 billion new installs within its initial 30 days of operation, the new app has unquestionably become a global sensation, signaling its immense popularity and potential for significant impact in the app industry.
+
+![download](https://github.com/Shregs-Data/Ribbon-App-Performance/assets/119749875/05a7b1cb-f4d1-4470-aa68-d23d362e0e73)
+
+-- We'll Continue with the Metrics Bounce Rate And Retention Rate
 
 Bounce Rate represents the percentage of visitors who enter a site, take no action, and leave after visiting only one page. In this Context, Bounce Rate refers to the percentage of users who downloaded, registered and deleted the app without using it.
 
@@ -22,5 +30,8 @@ Fortunately, this app has minimal bounce rate and even falls within the range of
 
 Since the bounce rate of the app is good enough, the next question to ask is, do these users stay back on this app for more? Answering this is gives birth to the Retention Rate
 
+Retention Rate gives a number to the percentage of users who still use an app a certain number of days after install.
+
 ![download](https://github.com/Shregs-Data/Ribbon-App-Performance/assets/119749875/74945b29-0ed1-4a78-abbc-08f20f16f8a8)
 
+A 75% retention rate for ribbon indicates that 74.4% of users continue using the app regularly. It's a positive sign, indicating users find value in the app's content and features.
