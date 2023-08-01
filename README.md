@@ -10,7 +10,7 @@ Questions from the CEO:
 - (If the app is a success) How can we leverage the success of the app launch to further enhance our products and services?
 - Are there any opportunities for expansion or improvements in user acquisition and engagement?						
 
-##### We'll start with totals
+#### We'll start with totals
 With over 3 billion new user signups in its first 30 days of operation, the new app has achieved an unprecedented level of rapid and widespread adoption, demonstrating its strong appeal and potential for massive success in the market.
 
 ![download](https://github.com/Shregs-Data/Ribbon-App-Performance/assets/119749875/509d287c-1e43-41b6-847e-946810f2e520)
@@ -19,7 +19,8 @@ Experiencing over 3 billion new installs within its initial 30 days of operation
 
 ![download](https://github.com/Shregs-Data/Ribbon-App-Performance/assets/119749875/05a7b1cb-f4d1-4470-aa68-d23d362e0e73)
 
-##### We'll Continue with the Metrics Bounce Rate And Retention Rate
+---
+#### We'll Continue with the Metrics Bounce Rate And Retention Rate
 
 Bounce Rate represents the percentage of visitors who enter a site, take no action, and leave after visiting only one page. In this Context, Bounce Rate refers to the percentage of users who downloaded, registered and deleted the app without using it.
 
