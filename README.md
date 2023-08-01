@@ -48,7 +48,8 @@ A 75% retention rate for ribbon indicates that 74.4% of users continue using the
 	- Market Expansion: In the first 30 days of the launch, a massive amount of users waas recorded. Expanding the app's reach to new market would give rise to more users
 	- Customer Support : Ensure your customer are attended to in a professional manner and all queries are addressed
 
-+ Are there any opportunities for expansion or improvements in user acquisition and engagement?
+---
+ Are there any opportunities for expansion or improvements in user acquisition and engagement?
 Definitely, there are opportunities for expansion to improve in user acquisition and Management. Expansions like;
   - Carrying out targeted marketing campaign would target a specific demographic location that aligns with the app features
   - Using Social Media to reach a more wider Audience
