@@ -20,16 +20,16 @@ Experiencing over 3 billion new installs within its initial 30 days of operation
 ![download](https://github.com/Shregs-Data/Ribbon-App-Performance/assets/119749875/05a7b1cb-f4d1-4470-aa68-d23d362e0e73)
 
 ---
-#### We'll Continue with the Metrics Bounce Rate And Retention Rate
+#### We'll Continue with the Metrics Churn Rate And Retention Rate
 
-Bounce Rate represents the percentage of visitors who enter a site, take no action, and leave after visiting only one page. In this Context, Bounce Rate refers to the percentage of users who downloaded, registered and deleted the app without using it.
+Churn Rate represents the percentage of users who downloads an app, take no action, and uninstall after visiting only the landing page. In this Context, churn Rate refers to the percentage of users who downloaded, registered and deleted the app without using it.
 
-Fortunately, this app has minimal bounce rate and even falls within the range of the an Application acceptable standard of 24% - 45%. It surpassed the 24% target of the company by 1%.
+Fortunately, this app has minimal churn rate and even falls within the range of the an Application acceptable standard of 24% - 45%. It surpassed the 24% target of the company by 1%.
 
 ![download](https://github.com/Shregs-Data/Ribbon-App-Performance/assets/119749875/2d79f76c-f223-42f7-abd5-79ab25899e35)
 
 
-Since the bounce rate of the app is good enough, the next question to ask is, do these users stay back on this app for more? Answering this is gives birth to the Retention Rate
+Since the churn rate of the app is good enough, the next question to ask is, do these users stay back on this app for more? Answering this is gives birth to the Retention Rate
 
 Retention Rate gives a number to the percentage of users who still use an app a certain number of days after install.
 
@@ -41,7 +41,7 @@ A 75% retention rate for ribbon indicates that 74.4% of users continue using the
 ### Answering the CEO's Question?
 (If the app is a success) How can we leverage the success of the app launch to further enhance our products and services?
 ---
-+ With the Bounce Rate and RR at accepting levels in the industry, we can leverage the success of this app by
++ With the Churn Rate and RR at accepting levels in the industry, we can leverage the success of this app by
 	- User feedback and analysis: Analyzing user feedback and reviews in the app helps to identify what areas to improve on and what features would be valued by the users
 	- User Behavior Analysis: Make use of analytics and user data to gain insights into user behavior and usage patterns within the app
 	- Continuous Improvement: Keep the momentum going by maintaining a constant innovation within the organization
